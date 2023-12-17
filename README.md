@@ -10,6 +10,10 @@ My skills: JavaScript (ES6+) / React / Redux / Redux Toolkit / React Query / RTK
 - I'm looking for strong-junior/junior front-end position in a loyal team and company
 - If I am asked a question and don't know the answer, I will start searching, and the next time, I will already know.
 
+
+My hobbies: hiking, runing, plaing the gitar.
+I like active life. 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vladyslav-kurmaz)](https://github.com/ryo-ma/github-profile-trophy)
 
 
